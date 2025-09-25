@@ -17,7 +17,7 @@ Getting Data From A Form
 [239-Movie_Ticket](https://github.com/PresnoArmweak/239-Movie_Ticket) 
  
 ## Screenshot of homepage 
-![alt](url) 
+![alt](home.jpg) 
  
 ## Markdown Cheat Sheet 
 [cheatsheet](https://www.markdownguide.org/cheat-sheet/) ) 
